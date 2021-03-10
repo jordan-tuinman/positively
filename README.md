@@ -1,5 +1,5 @@
 
-## Final group project from my time at Dev Academy
+## Final group project from Dev Academy
 
 Completed this app within 7 days, in a team of 6 people, all of us students from the bootcamp. 
 My role was as the Product Owner, as the concept came from an idea I had. 
