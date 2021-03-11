@@ -1,13 +1,17 @@
 
 ## Final group project from Dev Academy
 
-Completed this app within 7 days, in a team of 6 people, all of us students from the bootcamp. 
-My role was as the Product Owner, as the concept came from an idea I had. 
-Mostly I worked on setting up the Redux store, reducers and actions, along with creating React components and api calls for the app. 
+Completed this app within seven days, in a team of six bootcamp students. We worked day and night to create a functioning, stylish app that solidified our learning from the 15 week bootcamp. Our main focus was on learning, and working as an agile team. At the end of the seven days we presented our final result. 
+
+My role was as the Product Owner, as the concept came from an idea I originally had to create a habit formation app to help people improve themselves by kicking bad habits or creating new good ones.  
+
+Mostly I worked on setting up the Redux store with reducers and actions using Redux thunk, along with creating React components and api calls for the app. Other team members did more work on the backend, however I understand the work that went into that and as such made some adjustments to backend code at times to improve and add functionality. 
+
 
 ### Browser compatibility warning:
 
 The image for the UserDetails component uses the css aspect-ratio property in order to keep the image properly circular regardless of the image's inherent aspect ratio. This css property is still quite new and not widely supported, but will work fine on chrome. Worst case scenario will be the user uploads a non-square image and it renders as an oval on browsers that don't support the feature yet.
+
 
 ### Data object shapes
 
