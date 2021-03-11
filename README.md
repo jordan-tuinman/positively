@@ -1,11 +1,13 @@
 
 ## Final group project from Dev Academy
 
-Completed this app within seven days, in a team of six bootcamp students. We worked day and night to create a functioning, stylish app that solidified our learning from the 15 week bootcamp. Our main focus was on learning, and working as an agile team. At the end of the seven days we presented our final result. 
+Positively is a gamified habit formation app. 
 
-My role was as the Product Owner, as the concept came from an idea I originally had to create a habit formation app to help people improve themselves by kicking bad habits or creating new good ones.  
+I took up the Product Owner role and a developer role, as the concept originally came from my own idea to create something that will help people improve their daily lives.     
 
-Mostly I worked on setting up the Redux store with reducers and actions using Redux thunk, along with creating React components and api calls for the app. Other team members did more work on the backend, however I understand the work that went into that and as such made some adjustments to backend code at times to improve and add functionality. 
+This app was completed within seven days, from planning and conception to presenting the final working product. We worked in a team of six bootcamp students, working day and night to complete this app and solidify our learning from the 15 week bootcamp. Our main focus was on learning and working as an agile team. 
+
+I worked mostly on the frontend, and a few backend tasks. I set up the majority of the Redux store with reducers and actions using Redux thunk, along with creating React components and api calls for the database. Other team members did more work on the backend, however I understand the work that went into it and as such collaboratively made some adjustments to backend code at times to improve and add functionality. 
 
 
 ### Browser compatibility warning:
